@@ -1,4 +1,3 @@
-// Your code here
 function createEmployeeRecord(array){
   const employee = {
   firstName: array[0],
